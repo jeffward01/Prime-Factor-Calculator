@@ -1,0 +1,28 @@
+* {
+  text-align: center;
+  /*  color:white;*/
+}
+html {
+  background: #6187D1;
+}
+header {
+  border-bottom: 5px solid black;
+  max-width: 90%;
+  margin: 0 auto;
+}
+body {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+#container {
+  margin: 5% auto;
+  padding: 15px 15px 30px 15px;
+  min-height: 50px;
+  max-height: 50px;
+  max-width: 40%;
+  background: rgba(0, 0, 0, .2);
+  border-radius: 15px;
+  position: relative;
+}
